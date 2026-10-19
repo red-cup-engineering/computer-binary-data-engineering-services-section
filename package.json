@@ -3,8 +3,7 @@
   "version": "0.1.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/red-cup-engineering/typed-computer-content-engineering-services-section.git",
-    "directory": "services/computer-binary-data-services-section"
+    "url": "git+https://github.com/red-cup-engineering/computer-binary-data-services-section.git"
   },
   "type": "module",
   "description": "Groups operations defined over ordered byte sequences."
