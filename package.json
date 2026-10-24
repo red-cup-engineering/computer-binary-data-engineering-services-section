@@ -1,9 +1,9 @@
 {
-  "name": "@red-cup-engineering/computer-binary-data-services-section",
+  "name": "@red-cup-engineering/computer-binary-data-engineering-services-section",
   "version": "0.1.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/red-cup-engineering/computer-binary-data-services-section.git"
+    "url": "git+https://github.com/red-cup-engineering/computer-binary-data-engineering-services-section.git"
   },
   "type": "module",
   "description": "Groups operations defined over ordered byte sequences.",
