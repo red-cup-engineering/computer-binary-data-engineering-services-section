@@ -1,0 +1,16 @@
+{
+  "name": "@red-cup-engineering/byte-search-service",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Finds every overlapping occurrence of one byte sequence within another.",
+  "exports": {
+    ".": "./src/search-bytes.mjs"
+  },
+  "scripts": {
+    "check": "node --check src/search-bytes.mjs",
+    "test": "node --test test/*.test.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
